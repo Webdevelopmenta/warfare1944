@@ -5,7 +5,7 @@
     </head>
     <body>
         <div id='ruffle'></div>
-        <script src='https://e9x.github.io/ruffle-example/ruffle.js'></script> 
+        <script src='https://github.Webdeveopmenta.io/ruffle-example/ruffle.js'></script> 
         <script>
 var swfobject = {};
 
@@ -20,7 +20,7 @@ swfobject.embedSWF = function(url, cont, width, height){
     player.load({ url: url });
 }
 
-swfobject.embedSWF('https://e9x.github.io/ruffle-example/1on1soccer_24.swf', 'ruffle', 500, 500);
+swfobject.embedSWF(https://github.com/Webdevelopmenta/warfare1944/blob/main/warfare_1944.swf'', 'ruffle', 500, 500);
         </script>
     </body>
 </html>
